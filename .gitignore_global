@@ -1,0 +1,22 @@
+# Mac OSX
+.DS_Store
+
+# Node
+node_modules/*
+jspm_packages/*
+
+# Python
+build/
+*.egg-info/
+__pycache__/
+.eggs
+.tox
+.python-version
+htmlcov
+.coverage
+coverage.xml
+dist
+.pytest_cache
+
+# VS Code
+.vscode
