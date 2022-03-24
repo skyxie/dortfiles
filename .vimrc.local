@@ -20,7 +20,6 @@ set hidden       " Allow unsaved buffers
 set history=1000 " Allow longest history
 
 " Shortcuts to move between buffers
-map :e :tabnew
 noremap <leader>p :bp<cr>
 noremap <leader>n :bn<cr>
 colorscheme desert
